@@ -1,4 +1,4 @@
-# Week 4: Git & GitHub Advanced 
+# Week 4 Git & GitHub Advanced 
 
 This challenge covers advanced Git concepts essential for real-world DevOps workflows. By the end of this challenge, you will:  
 
